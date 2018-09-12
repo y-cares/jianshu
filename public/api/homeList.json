@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "读书",
+      "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    },{
+      "id": 3,
+      "title": "故事",
+      "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "2018年UI设计趋势概览",
+      "desc": "在过去的几年里，越来越多的设计师在设计作品时采用了色彩渐变的方法，今年的流体渐变更是风靡全球。即使你只选择了一种颜色，也可以在色彩渐变和不同图片",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/6011072-72047eb896921a76?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 2,
+      "title": "你的身材，出卖了你的生活方式",
+      "desc": "前两天孙俪发了一条微博引起了热议，引起一大片网友在底下求食谱，以及讲述自己减肥的血泪史。 其实孙俪“改行”当减肥博主已经不是一天两天的事情了，在...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/12908011-15d12e49747259a6?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    },{
+      "id": 3,
+      "title": "android自定义view--SearchView",
+      "desc": "前言 上一篇Path特效功臣----PathMesure我们讲了PathMesure中api的详细方法和测试。本文就用我们学到的PathMeas...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/228094-b322e3d7efb0be0b.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+    },{
+      "id": 2,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+    },{
+      "id": 3,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 4,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    },{
+      "id": 5,
+      "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+    }]
+  }
+}
